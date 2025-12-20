@@ -1,0 +1,3 @@
+// _constants/index.ts
+export const MEMBER_LIST_LIMIT = 100;
+export const TOP_NEWS_LIMIT = 2;
