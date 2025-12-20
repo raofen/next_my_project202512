@@ -1,5 +1,5 @@
 // Category/index.tsx
-import type { Category } from "@/app/_lib/microcms";
+import type { Category } from "@/app/_libs/microcms";
 import styles from "./index.module.css";
 
 type Props = {

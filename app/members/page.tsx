@@ -1,6 +1,6 @@
 // members/page.tsx
 import Image from "next/image";
-import { getMembersList } from "@/app/_lib/microcms";
+import { getMembersList } from "@/app/_libs/microcms";
 import { MEMBER_LIST_LIMIT } from "@/app/_constants";
 import styles from "./page.module.css";
 
